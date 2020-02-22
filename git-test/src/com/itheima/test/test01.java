@@ -10,5 +10,6 @@ public class test01 {
         int i = 0;
         i += 6;
         System.out.println("i="+i);
+        System.out.println("aaa");
     }
 }
